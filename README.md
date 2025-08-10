@@ -39,12 +39,9 @@ Whenever a developer pushes code to the repository:
 ## 📂 Repository Structure
 
 devsecops-test/ 
-
-│── Jenkinsfile     # CI/CD Pipeline definition 
-
-│── juice-shop/     # Sample application for testing 
-
-│── README.md       # Project documentation
+│── Jenkinsfile        # CI/CD Pipeline definition 
+│── juice-shop/        # Sample application for testing 
+│── README.md          # Project documentation
 
 ---
 
