@@ -42,7 +42,7 @@ devsecops-test/
 
 │── Jenkinsfile        # CI/CD Pipeline definition 
 
-│── juice-shop/        # Sample application for testing
+│── Juice-Shop/        # Sample application for testing
 
 │── README.md          # Project documentation
 
